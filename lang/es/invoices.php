@@ -27,7 +27,7 @@ return [
     'transaction_id' => 'Núm. de la transacción',
     'gateway' => 'Pasarela de pago',
     'payment_date' => 'Fecha de pago',
-    'payment_method' => 'Método Pago',
+    'payment_method' => 'Método de Pago',
     'amount' => 'Cantidad',
     'date' => 'Fecha',
 ];
