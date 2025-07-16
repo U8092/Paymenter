@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'Estas credenciales no coinciden con nuestros registros.',
+    'failed' => 'Las credenciales no coinciden con nuestros registros.',
     'password' => 'La contraseña introducida es incorrecta.',
     'throttle' => 'Demasiados intentos de inicio de sesión. Por favor, inténtalo de nuevo en :seconds segundos.',
 
@@ -48,8 +48,8 @@ return [
     'verification' => [
         'notice' => 'Verificar tu dirección de correo electrónico',
         'sent' => 'Un nuevo enlace de verificación ha sido enviado a tu dirección de correo electrónico.',
-        'check_your_email' => 'Antes de proceder, por favor revisa tu correo electrónico para ver un enlace de verificación.',
-        'not_received' => 'Si no recibiste el correo electrónico, puedes solicitar otro correo de verificación.',
+        'check_your_email' => 'Por favor, antes de proceder busca el enlace de verificación en tu correo electrónico.',
+        'not_received' => 'Si no has recibido el correo electrónico, puedes solicitar otro.',
         'request_another' => 'Reenviar correo de verificación',
     ],
 ];
