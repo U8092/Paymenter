@@ -1,21 +1,21 @@
 <?php
 
 return [
-    'ticket_details' => 'Detalles del ticket',
-    'tickets' => 'Tickets',
+    'ticket_details' => 'Detalles de la incidencia',
+    'tickets' => 'Incidencias',
     'subject' => 'Asunto',
     'status' => 'Estado',
     'priority' => 'Prioridad',
     'department' => 'Departamento',
-    'created_at' => 'Creado en',
+    'created_at' => 'Creación',
     'reply' => 'Responder',
 
-    'create_ticket' => 'Crear un ticket',
-    'select_department' => 'Seleccionar Departamento',
-    'select_priority' => 'Seleccionar Prioridad',
-    'low' => 'Bajo',
-    'medium' => 'Mediano',
-    'high' => 'Alto',
+    'create_ticket' => 'Crear una incidencia',
+    'select_department' => 'Selecciona el Departamento',
+    'select_priority' => 'Selecciona la Prioridad',
+    'low' => 'Baja',
+    'medium' => 'Media',
+    'high' => 'Alta',
 
     'last_activity' => 'Última actividad',
 
