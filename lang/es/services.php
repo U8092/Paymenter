@@ -18,7 +18,7 @@ return [
     'cancel_type' => 'Tipo de cancelación',
     'cancel_immediate' => 'Cancelar de inmediato',
     'cancel_end_of_period' => 'Cancelar al final del período de facturación',
-    'cancel_immediate_warning' => 'Al pulsar el botón de abajo, el servicio se cancelará inmediatamente y ya no podrá utilizarlo.',
+    'cancel_immediate_warning' => 'Al pulsar el botón de abajo, el servicio se cancelará inmediatamente y ya no podrás utilizarlo.',
     'cancellation_requested' => 'Cancelación solicitada',
 
     'current_plan' => 'Plan actual',
@@ -27,6 +27,6 @@ return [
     'current_price' => 'Precio actual',
     'new_price' => 'Nuevo precio',
     'upgrade' => 'Actualizar',
-    'upgrade_summary' => 'Resumen de actualización',
+    'upgrade_summary' => 'Resumen de la actualización',
     'total_today' => 'Total hoy',
 ];
